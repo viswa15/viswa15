@@ -71,15 +71,13 @@ Sql Data Cleaning | SQL, SSMP (workspace) | [Repo](https://github.com/srivasanth
 Excel Data Project | Excel | [Repo](https://github.com/srivasanth23/Excel-Project)
 Telangana District wise data analysis | Excel | [Repo](https://github.com/srivasanth23/Telangana_District_wise_Growth_analytics) -->
 
-<details>
-<summary> <h3>📊 Github Statistics</h3> </summary>
-<div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivasanth23&label=Profile%20views&color=0e75b6&style=flat" alt="viswa15" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivasanth23&show_icons=true&locale=en&layout=compact" alt="viswa15" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasanth23&show_icons=true&locale=en" alt="viswa15" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivasanth23&" alt="viswa15" /></p>
-</div>
-</details>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viswa15&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viswa15&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=viswa15&theme=radical)
+
+## Activity Graph
+[![Viswa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viswa15&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
