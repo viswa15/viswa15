@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viswateja Tummala</h1>
-<h3 align="center">A passionate Software developer from India. Currently looking for an  full-Stack Development Internships. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+<h3 align="center">A passionate Software developer from India. Currently looking for the  full-Stack Development Internships. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
 ## 🚀 About Me
 I'm a MERN stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end and back-end.
