@@ -25,7 +25,7 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 | Databases | MYSQL, SQLlite, MongoDB |
 | Languages | Python, CPP,JavaScript |
 | Cloud computing | Azure |
-| Tools| VScode, Git, Postman, WebStorm|
+| Tools| Git, Github, Postman, WebStorm|
 
 ## 🔭 Projects
 <summary><b>Full-Stack Devlopment</b></summary>
