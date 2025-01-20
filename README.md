@@ -20,7 +20,7 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Frontend | React.js, TailwindCSS, Bootstrap|
+| Frontend | React.js, ReduxToolkit, TailwindCSS, Bootstrap|
 | Backend | Node.js, Express.js |
 | Databases | MYSQL, SQLlite, MongoDB |
 | Languages | Python, CPP,JavaScript |
