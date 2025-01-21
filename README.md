@@ -6,7 +6,7 @@ I'm a MERN stack developer who is passionate about making dynamic, user-friendly
 
 I've always been a dedicated student currently in 4th year of B.Tech Computer Science & Engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
 
-🌱 I’m currently learning **Machine Learning**
+🌱 I’m currently learning **Machine Learning** and exploring Different WebTechnologies
 
 ## 👩‍💻 Experience
 - Frontend Developer at Syntropy Ventures
