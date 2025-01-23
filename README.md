@@ -47,9 +47,8 @@ Task Name | Tool | Source Code |
 Updating soon... |  |   |
 Emoji Game | ReactJS, JSX | [Live](https://emojigametvt.ccbp.tech/)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Live](https://viswawikiglobe.ccbp.tech/)
-<!-- Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Live](https://github.com/srivasanth23/JammulaSrivasanth) -->
 Speed Type Tester | HTML, CSS, JS, Rest API's | [Live](https://viswatypingtest.ccbp.tech/)
-Netflix Home Page | HTML, CSS | [Live](https://viswanetflix1.ccbp.tech/)
+
 
 <summary><b>Back-end Devlopment</b></summary>
   <br/>
@@ -57,8 +56,8 @@ Netflix Home Page | HTML, CSS | [Live](https://viswanetflix1.ccbp.tech/)
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
 Updating soon... |  |   |
+BlogsManagement API | Node.js, Express.js, MongoDB | [Repo](https://github.com/viswa15/Blogs-Management-API.git)
 Products API | Node.js, Express.js, MongoDB | [Repo](https://github.com/viswa15/Products-API.git)
-News-Artices API | Node.js, Express.js, SQLite | [Repo](https://github.com/viswa15/news-article-api.git)
 Todos API | Node.js, Express.js, SQLite | [Repo](https://github.com/viswa15/Todos-API.git)
 
 <!-- <summary><b>Data Analytics</b></summary>
