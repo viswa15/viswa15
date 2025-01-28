@@ -33,7 +33,6 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-Updating soon... |  |   |
 NxtWatch | ReactJS, JSX, Node.js, Express.js, Rest API's, SQLite| [Live](https://viswanxtwatch.ccbp.tech/)
 NxtTrendz | ReactJS, JSX, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtnxttrendz.ccbp.tech/)
 Jobby App | ReactJS, JSX, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtsjobbyapp.ccbp.tech/)
@@ -44,7 +43,6 @@ Login Credentials | Username : rahul | Password : rahul@2021 |
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-Updating soon... |  |   |
 Emoji Game | ReactJS, JSX | [Live](https://emojigametvt.ccbp.tech/)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Live](https://viswawikiglobe.ccbp.tech/)
 Speed Type Tester | HTML, CSS, JS, Rest API's | [Live](https://viswatypingtest.ccbp.tech/)
@@ -55,7 +53,6 @@ Speed Type Tester | HTML, CSS, JS, Rest API's | [Live](https://viswatypingtest.c
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-Updating soon... |  |   |
 BlogsManagement API | Node.js, Express.js, MongoDB | [Repo](https://github.com/viswa15/Blogs-Management-API.git)
 Products API | Node.js, Express.js, MongoDB | [Repo](https://github.com/viswa15/Products-API.git)
 Todos API | Node.js, Express.js, SQLite | [Repo](https://github.com/viswa15/Todos-API.git)
