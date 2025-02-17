@@ -20,7 +20,7 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Frontend | React.js, ReduxToolkit, TailwindCSS, Bootstrap|
+| Frontend | React.js, Zustand, ReduxToolkit, TailwindCSS, DaisyUI, Bootstrap|
 | Backend | Node.js, Express.js, Socket.io |
 | Databases | MYSQL, SQLlite, MongoDB |
 | Languages | Python, CPP,JavaScript |
@@ -33,9 +33,10 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-NxtWatch | ReactJS, JSX, Node.js, Express.js, Rest API's, SQLite| [Live](https://viswanxtwatch.ccbp.tech/)
-NxtTrendz | ReactJS, JSX, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtnxttrendz.ccbp.tech/)
-Jobby App | ReactJS, JSX, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtsjobbyapp.ccbp.tech/)
+Chatty    | ReactJs, Zustand, DaisyUI, Node.jsm Express.js, Rest API's, MongoDB, Socket.io | [Live](https://chat-application-4aox.onrender.com/)
+NxtWatch  | ReactJS,  Node.js, Express.js, Rest API's, SQLite| [Live](https://viswanxtwatch.ccbp.tech/)
+NxtTrendz | ReactJS, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtnxttrendz.ccbp.tech/)
+Jobby App | ReactJS, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtsjobbyapp.ccbp.tech/)
 Login Credentials | Username : rahul | Password : rahul@2021 |
 
 <summary><b>Front-end Devlopment</b></summary>
