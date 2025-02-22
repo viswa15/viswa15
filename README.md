@@ -21,11 +21,11 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Frontend | React.js, Zustand, ReduxToolkit, TailwindCSS, DaisyUI, Bootstrap|
-| Backend | Node.js, Express.js, Socket.io |
+| Backend | Node.js, Express.js, Socket.io, Email Testing |
 | Databases | MYSQL, SQLlite, MongoDB |
 | Languages | Python, CPP,JavaScript |
 | Cloud computing | Azure |
-| Tools| Git, Github, Postman, WebStorm|
+| Tools| Git, Github, Postman, WebStorm, Mailtrap|
 
 ## 🔭 Projects
 <summary><b>Full-Stack Devlopment</b></summary>
@@ -54,8 +54,8 @@ Speed Type Tester | HTML, CSS, JS, Rest API's | [Live](https://viswatypingtest.c
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
+Advanced Authentication API | Node.js, Express.js, MongoDB, Mailtrap| [Repo](https://github.com/viswa15/Authentication-App)
 BlogsManagement API | Node.js, Express.js, MongoDB | [Repo](https://github.com/viswa15/Blogs-Management-API.git)
-Products API | Node.js, Express.js, MongoDB | [Repo](https://github.com/viswa15/Products-API.git)
 Todos API | Node.js, Express.js, SQLite | [Repo](https://github.com/viswa15/Todos-API.git)
 
 <!-- <summary><b>Data Analytics</b></summary>
