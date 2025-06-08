@@ -21,7 +21,7 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Frontend | React.js, Zustand, ReduxToolkit, TailwindCSS, DaisyUI, Bootstrap|
-| Backend | Node.js, Express.js, Socket.io, Email Testing |
+| Backend | Node.js, Express.js, Socket.io, Email Testing, TypeORM |
 | Databases | MYSQL, SQLlite, MongoDB |
 | Languages | Python, CPP,JavaScript |
 | Cloud computing | Azure |
@@ -33,7 +33,7 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-Chatty    | ReactJs, Zustand, DaisyUI, Node.jsm Express.js, Rest API's, MongoDB, Socket.io | [Live](https://chat-application-4aox.onrender.com/)
+Chatty    | ReactJs, TailwindCSS, Zustand, DaisyUI, Node.js, Express.js, Rest API's, MongoDB, Socket.io, Cloudinary | [Live](https://chat-application-4aox.onrender.com/)
 NxtWatch  | ReactJS,  Node.js, Express.js, Rest API's, SQLite| [Live](https://viswanxtwatch.ccbp.tech/)
 NxtTrendz | ReactJS, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtnxttrendz.ccbp.tech/)
 Jobby App | ReactJS, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtsjobbyapp.ccbp.tech/)
@@ -56,7 +56,7 @@ Task Name | Tool | Source Code |
 ------- | --------- | :--------: | 
 Advanced Authentication API | Node.js, Express.js, MongoDB, Mailtrap| [Repo](https://github.com/viswa15/Authentication-App)
 BlogsManagement API | Node.js, Express.js, MongoDB | [Repo](https://github.com/viswa15/Blogs-Management-API.git)
-Todos API | Node.js, Express.js, SQLite | [Repo](https://github.com/viswa15/Todos-API.git)
+Airport Information  API | Node.js, Express.js, SQLite, TypeORM | [Repo](https://github.com/viswa15/Airport-Information-API.git)
 
 <!-- <summary><b>Data Analytics</b></summary>
   <br/>
