@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Viswateja Tummala</h1>
-<h3 align="center">A passionate Software developer from India. Currently looking for the  full-Stack Development Internships. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+<h3 align="center">A passionate Software developer from India. Currently looking for the  full-Stack Development roles full-time <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
 ## 🚀 About Me
-I'm a MERN stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end and back-end.
-
-I've always been a dedicated student currently in 4th year of B.Tech Computer Science & Engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
+I'm a MERN stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end and back-end. 
 
 🌱 I’m currently learning **Machine Learning** and exploring Different WebTechnologies
 
@@ -15,13 +13,13 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 <!-- - Portfolio: [portfolio/Viswateja Tummala](https://jsrivportfolio.ccbp.tech/) -->
 - Projects: [github.com/viswa15](https://github.com/viswa15)
 - Linkedin: [linkedin.com/Viswateja Tummala](www.linkedin.com/in/viswateja-tummala)
-- Resume: [resume/Viswateja Tummala](https://drive.google.com/file/d/1QZepw4Ky6yVlXfcBfg-abhbShd5NakNU/view?usp=sharing)
+- Resume: [resume/Viswateja Tummala](https://drive.google.com/file/d/1LLiRE921MXABgku2xABCbK0YoYB2lrCz/view?usp=sharing)
 
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Frontend | React.js, Zustand, ReduxToolkit, TailwindCSS, DaisyUI, Bootstrap|
-| Backend | Node.js, Express.js, Socket.io, Email Testing, TypeORM |
+| Backend | Node.js, Express.js, Socket.io, Email Testing, TypeORM, Ethere.js|
 | Databases | MYSQL, SQLlite, MongoDB |
 | Languages | Python, CPP,JavaScript |
 | Cloud computing | Azure |
@@ -54,6 +52,7 @@ Speed Type Tester | HTML, CSS, JS, Rest API's | [Live](https://viswatypingtest.c
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
+EigenLayer Restaking API |Ethere.js, Node.js, Express.js, MongoDB| [Repo](https://github.com/viswa15/EigenLayer-Restaking-API.git)
 Advanced Authentication API | Node.js, Express.js, MongoDB, Mailtrap| [Repo](https://github.com/viswa15/Authentication-App)
 BlogsManagement API | Node.js, Express.js, MongoDB | [Repo](https://github.com/viswa15/Blogs-Management-API.git)
 Airport Information  API | Node.js, Express.js, SQLite, TypeORM | [Repo](https://github.com/viswa15/Airport-Information-API.git)
