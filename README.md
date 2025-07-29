@@ -11,6 +11,7 @@ I'm a MERN stack developer who is passionate about making dynamic, user-friendly
 
 ## ©️ Important Links
 <!-- - Portfolio: [portfolio/Viswateja Tummala](https://jsrivportfolio.ccbp.tech/) -->
+- Portfolio: [portfolio/Viswateja Tummala](https://viswa-s-portfolio-teal.vercel.app/)
 - Projects: [github.com/viswa15](https://github.com/viswa15)
 - Linkedin: [linkedin.com/Viswateja Tummala](www.linkedin.com/in/viswateja-tummala)
 - Resume: [resume/Viswateja Tummala](https://drive.google.com/file/d/1LLiRE921MXABgku2xABCbK0YoYB2lrCz/view?usp=sharing)
