@@ -21,10 +21,10 @@ I'm a MERN stack developer who is passionate about making dynamic, user-friendly
 | ----------------- | ------------------------------------------------------------------ |
 | Frontend | React.js, Zustand, ReduxToolkit, TailwindCSS, DaisyUI, Bootstrap|
 | Backend | Node.js, Express.js, Socket.io, Email Testing, TypeORM, Ethere.js|
-| Databases | MYSQL, SQLlite, MongoDB |
-| Languages | Python, CPP,JavaScript |
-| Cloud computing | Azure |
-| Tools| Git, Github, Postman, WebStorm, Mailtrap|
+| Databases | MongoDB, Postgres, MYSQL, SQLlite |
+| Languages | Python, CPP,JavaScript, TypeScript |
+| Cloud computing | Azure, AWS |
+| Tools| Git, Github, Postman, WebStorm, Render, Vercel,Cursor|
 
 ## 🔭 Projects
 <summary><b>Full-Stack Devlopment</b></summary>
@@ -55,7 +55,6 @@ Task Name | Tool | Source Code |
 ------- | --------- | :--------: | 
 EigenLayer Restaking API |Ethere.js, Node.js, Express.js, MongoDB| [Repo](https://github.com/viswa15/EigenLayer-Restaking-API.git)
 Advanced Authentication API | Node.js, Express.js, MongoDB, Mailtrap| [Repo](https://github.com/viswa15/Authentication-App)
-BlogsManagement API | Node.js, Express.js, MongoDB | [Repo](https://github.com/viswa15/Blogs-Management-API.git)
 Airport Information  API | Node.js, Express.js, SQLite, TypeORM | [Repo](https://github.com/viswa15/Airport-Information-API.git)
 
 <!-- <summary><b>Data Analytics</b></summary>
