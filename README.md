@@ -19,12 +19,12 @@ I'm a MERN stack developer who is passionate about making dynamic, user-friendly
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Frontend | React.js, Zustand, ReduxToolkit, TailwindCSS, DaisyUI, Bootstrap|
-| Backend | Node.js, Express.js, Socket.io, Email Testing, TypeORM, Ethere.js|
+| Frontend | React.js, Zustand, ReduxToolkit, TailwindCSS, DaisyUI, Bootstrap, shadcn|
+| Backend | Node.js, Express.js, Socket.io, Email Testing, TypeORM, Ether.js|
 | Databases | MongoDB, Postgres, MYSQL, SQLlite |
-| Languages | Python, CPP,JavaScript, TypeScript |
+| Languages | Python, CPP, JavaScript, TypeScript |
 | Cloud computing | Azure, AWS |
-| Tools| Git, Github, Postman, WebStorm, Render, Vercel,Cursor|
+| Tools| Git, Github, Postman, WebStorm, Render, Vercel,Cursor, Github Copilot|
 
 ## 🔭 Projects
 <summary><b>Full-Stack Devlopment</b></summary>
@@ -43,6 +43,7 @@ Login Credentials | Username : rahul | Password : rahul@2021 |
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
+Atomic Structure Explorer | React, TailwindCSS, shadcn, Vercel | [Live](https://atomic-structur-explorer.vercel.app/)
 Emoji Game | ReactJS, JSX | [Live](https://emojigametvt.ccbp.tech/)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Live](https://viswawikiglobe.ccbp.tech/)
 Speed Type Tester | HTML, CSS, JS, Rest API's | [Live](https://viswatypingtest.ccbp.tech/)
