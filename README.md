@@ -73,8 +73,8 @@ Telangana District wise data analysis | Excel | [Repo](https://github.com/srivas
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viswa15&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=viswa15&theme=radical) 
 
-## Activity Graph
-![Viswa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viswa15&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<!--## Activity Graph 
+![Viswa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viswa15&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
