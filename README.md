@@ -32,7 +32,8 @@ I'm a MERN stack developer who is passionate about making dynamic, user-friendly
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-Chatty    | ReactJs, TailwindCSS, Zustand, DaisyUI, Node.js, Express.js, Rest API's, MongoDB, Socket.io, Cloudinary | [Live](https://chat-application-4aox.onrender.com/)
+Chatty    | ReactJs, TailwindCSS, Zustand, DaisyUI, Node.js, Express.js, Rest API's, MongoDB, Socket.io, Cloudinary, Vercel, AWS-EC2 | [Live](https://chat-application-five-swart.vercel.app/login)
+Chatty    | ReactJs, Node.js, MaterialUI, Express.js, Stripe, Cloudinary, Render | [Live](https://bemyguest-8bla.onrender.com/)
 NxtWatch  | ReactJS,  Node.js, Express.js, Rest API's, SQLite| [Live](https://viswanxtwatch.ccbp.tech/)
 NxtTrendz | ReactJS, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtnxttrendz.ccbp.tech/)
 Jobby App | ReactJS, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtsjobbyapp.ccbp.tech/)
@@ -43,6 +44,7 @@ Login Credentials | Username : rahul | Password : rahul@2021 |
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
+HealthCarePro(Currently developing into full-stack appln) | React, TypeScript, TailwindCSS, shadcn, Vercel | [Live](https://health-care-pro.vercel.app/)
 Atomic Structure Explorer | React, TailwindCSS, shadcn, Vercel | [Live](https://atomic-structur-explorer.vercel.app/)
 Emoji Game | ReactJS, JSX | [Live](https://emojigametvt.ccbp.tech/)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Live](https://viswawikiglobe.ccbp.tech/)
