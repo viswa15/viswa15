@@ -32,8 +32,9 @@ I'm a MERN stack developer who is passionate about making dynamic, user-friendly
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
+DeepKlarity(AI Resume Analyzer)    | React.jsx, Google Gemini, Postgres,  Node.js, Express.js,  Vercel, Render | [Live](https://resume-analyzer-liard-nine.vercel.app/)
 Chatty    | ReactJs, TailwindCSS, Zustand, DaisyUI, Node.js, Express.js, Rest API's, MongoDB, Socket.io, Cloudinary, Vercel, AWS-EC2 | [Live](https://chat-application-five-swart.vercel.app/login)
-Chatty    | ReactJs, Node.js, MaterialUI, Express.js, Stripe, Cloudinary, Render | [Live](https://bemyguest-8bla.onrender.com/)
+BeMyGuest    | ReactJs, Node.js, MaterialUI, Express.js, Stripe, Cloudinary, Render | [Live](https://bemyguest-8bla.onrender.com/)
 NxtWatch  | ReactJS,  Node.js, Express.js, Rest API's, SQLite| [Live](https://viswanxtwatch.ccbp.tech/)
 NxtTrendz | ReactJS, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtnxttrendz.ccbp.tech/)
 Jobby App | ReactJS, Node.js, Express.js, Rest API's, SQLite | [Live](https://tvtsjobbyapp.ccbp.tech/)
