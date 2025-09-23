@@ -19,7 +19,7 @@ I'm a MERN stack developer who is passionate about making dynamic, user-friendly
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Frontend | React.js, Zustand, ReduxToolkit, TailwindCSS, DaisyUI, Bootstrap, shadcn|
+| Frontend | React.js, Zustand, ReduxToolkit, TailwindCSS, DaisyUI, Bootstrap, shadcn, TanStack Query|
 | Backend | Node.js, Express.js, Socket.io, Email Testing, TypeORM, Ether.js|
 | Databases | MongoDB, Postgres, MYSQL, SQLlite |
 | Languages | Python, CPP, JavaScript, TypeScript |
@@ -46,6 +46,7 @@ Login Credentials | Username : rahul | Password : rahul@2021 |
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
 HealthCarePro(Currently developing into full-stack appln) | React, TypeScript, TailwindCSS, shadcn, Vercel | [Live](https://health-care-pro.vercel.app/)
+Crypto Market Tracker | React.tsx, TypeScript, TailwindCSS, TanStack Query, vitest, Vercel | [Live](https://crypto-dashboard-fyrn.vercel.app/)
 Atomic Structure Explorer | React, TailwindCSS, shadcn, Vercel | [Live](https://atomic-structur-explorer.vercel.app/)
 Emoji Game | ReactJS, JSX | [Live](https://emojigametvt.ccbp.tech/)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Live](https://viswawikiglobe.ccbp.tech/)
