@@ -7,7 +7,8 @@ I'm a MERN stack developer who is passionate about making dynamic, user-friendly
 🌱 I’m currently learning **Machine Learning** and exploring Different WebTechnologies
 
 ## 👩‍💻 Experience
-- Frontend Developer at Syntropy Ventures
+- Full-Stack Developer at Smarter Codes(Oct 2025 - Present)
+- Frontend Development Intern at Syntropy Ventures(May 2024 - July 2024)
 
 ## ©️ Important Links
 <!-- - Portfolio: [portfolio/Viswateja Tummala](https://jsrivportfolio.ccbp.tech/) -->
